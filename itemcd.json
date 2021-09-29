@@ -1,0 +1,20 @@
+[
+    { "text": "AAA0000001", "value": "1", "des": "copper salfate fine 20"},
+    { "text": "AAA0000002", "value": "2", "des": "copper salfate fine 30" },
+    { "text": "AAA0000003", "value": "3", "des": "copper salfate fine 40" },
+    { "text": "AAA0000004", "value": "4", "des": "copper salfate fine 100" },
+    { "text": "AAB0000005", "value": "5", "des": "container case A" },
+    { "text": "AAB0000006", "value": "6", "des": "container case B" },
+    { "text": "AAB0000007", "value": "7", "des": "container case C" },
+    { "text": "CAB0000011", "value": "8", "des": "fine car oil 100" },
+    { "text": "CAB0000012", "value": "9", "des": "fine car oil 200" },
+    { "text": "CAB0000013", "value": "10", "des": "fine car oil 201" },
+    { "text": "CAB0000014", "value": "11", "des": "fine car oil 202" },
+    { "text": "CAB0000015", "value": "12", "des": "fine car oil 203" },
+    { "text": "CAB0000016", "value": "13", "des": "fine car oil 204" },
+    { "text": "ZZZ1000000", "value": "14", "des": "cotton T-shirts box 1000" },
+    { "text": "ZZZ1000001", "value": "15", "des": "cotton T-shirts box 2000" },
+    { "text": "XXX16", "value": "16", "des": "PR16" },
+    { "text": "XXX17", "value": "17", "des": "PR17" },
+    { "text": "XXX18", "value": "18", "des": "PR18" }
+]
